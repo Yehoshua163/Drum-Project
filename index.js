@@ -12,7 +12,7 @@ for (var i = 0; i<numberOfButtons; i++){
         makeSound(event.key);
         animation(event.key)
     })
-    });
+    }); asdf
     
     function makeSound(key){
         switch (key){
