@@ -20,8 +20,8 @@ for (var i = 0; i<numberOfButtons; i++){
                 var audio = new Audio("sounds/crash.mp3")
                 audio.play();
                 break;
-            case ("a"):
-                var audio = new Audio("sounds/kick-bass.mp3")
+            case ("a"):asdf
+                var audio = new Audio("sounds/kick-asdfbass.mp3")
                 audio.play();
                 break;
             case ("s"):
