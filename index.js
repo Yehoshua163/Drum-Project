@@ -34,7 +34,7 @@ for (var i = 0; i<numberOfButtons; i++){
                 break;
             case ("j"):
                 var audio = new Audio("sounds/tom-2.mp3")
-                audio.play();
+                audio.play();sadfasdf
                 break;
             case ("k"):
                 var audio = new Audio("sounds/tom-3.mp3")
